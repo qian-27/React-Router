@@ -1,3 +1,11 @@
+# Introduction
+This is a school exercise about React Router, completed by 2nd April 2023.
+
+
+# Visuals
+![Desktop View](https://github.com/qian-27/React-Router/assets/83451817/dcce42aa-45d6-485a-887b-4df33c0ca9d4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+< npm i
 
 ### `npm start`
 
