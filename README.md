@@ -3,6 +3,7 @@ This is a school exercise about React Router, completed by 2nd April 2023.
 
 
 # Visuals
+<img src='https://github.com/qian-27/React-Router/assets/83451817/dcce42aa-45d6-485a-887b-4df33c0ca9d4' style="box-shadow: 10px 10px 5px #888888;">
 ![Desktop View](https://github.com/qian-27/React-Router/assets/83451817/dcce42aa-45d6-485a-887b-4df33c0ca9d4)
 
 
